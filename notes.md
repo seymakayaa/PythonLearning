@@ -239,4 +239,4 @@ __Summary List Methods__
 9. ```remove()``` --> Removes the item with the specified value
 10. ```reverse()``` --> Reverses the order of the list
 11. ```sort()``` --> Sorts the list
-12. 
+
